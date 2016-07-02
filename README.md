@@ -7,4 +7,4 @@ css 动画库
 | :--------:   | :-----:  |  :-----: |:----:  |
 | 图片悬停    | Hover | https://github.com/IanLunn/Hover|http://ianlunn.github.io/Hover/#effects|
 | 图片悬停    | ihover | https://github.com/gudh/ihover|http://gudh.github.io/ihover/dist/|
-| 图片悬停    | ihover | https://github.com/ciar4n/imagehover.css|http://www.imagehover.io/|
+| 图片悬停    | imagehover | https://github.com/ciar4n/imagehover.css|http://www.imagehover.io/|
